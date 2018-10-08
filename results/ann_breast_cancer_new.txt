@@ -1,0 +1,11 @@
+ANN with Breast Cancer Dataset
+
+Optimal Hidden Layers: [16, 16, 16, 16, 16]
+
+Training Accuracy: 0.9802197802197802
+
+Cross Validation Accuracy: 0.3626092657342657
+
+Testing Accuracy: 0.9210526315789473
+
+Total Time Taken: 0:05:32.740605

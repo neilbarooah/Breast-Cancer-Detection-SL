@@ -1,0 +1,18 @@
+SVM with Breast Cancer Dataset
+
+Best Kernel: linear
+
+Grid Scores:
+
+{'mean_fit_time': array([1.81600571, 0.00415483, 0.00876896]), 'std_fit_time': array([2.43139737e+00, 3.06830858e-04, 7.45324050e-04]), 'mean_score_time': array([0.00050519, 0.00108626, 0.00166063]), 'std_score_time': array([5.98943773e-05, 6.61733719e-05, 8.36845681e-05]), 'param_kernel': masked_array(data=['linear', 'sigmoid', 'rbf'],
+             mask=[False, False, False],
+       fill_value='?',
+            dtype=object), 'params': [{'kernel': 'linear'}, {'kernel': 'sigmoid'}, {'kernel': 'rbf'}], 'split0_test_score': array([0.92307692, 0.56043956, 0.56043956]), 'split1_test_score': array([0.97802198, 0.74725275, 0.74725275]), 'split2_test_score': array([0.97802198, 0.6043956 , 0.6043956 ]), 'split3_test_score': array([0.93406593, 0.67032967, 0.67032967]), 'split4_test_score': array([0.92307692, 0.7032967 , 0.7032967 ]), 'split5_test_score': array([0.96703297, 0.7032967 , 0.7032967 ]), 'split6_test_score': array([0.95604396, 0.64835165, 0.64835165]), 'split7_test_score': array([0.89010989, 0.57142857, 0.57142857]), 'split8_test_score': array([0.95604396, 0.64835165, 0.64835165]), 'split9_test_score': array([0.95604396, 0.63736264, 0.63736264]), 'mean_test_score': array([0.94615385, 0.64945055, 0.64945055]), 'std_test_score': array([0.02666958, 0.05655872, 0.05655872]), 'rank_test_score': array([1, 2, 2], dtype=int32), 'split0_train_score': array([0.97252747, 0.65934066, 1.        ]), 'split1_train_score': array([0.9532967 , 0.61263736, 1.        ]), 'split2_train_score': array([0.95604396, 0.64835165, 1.        ]), 'split3_train_score': array([0.96978022, 0.63186813, 1.        ]), 'split4_train_score': array([0.98076923, 0.62362637, 1.        ]), 'split5_train_score': array([0.96153846, 0.62362637, 1.        ]), 'split6_train_score': array([0.96703297, 0.63736264, 1.        ]), 'split7_train_score': array([0.98076923, 0.65659341, 1.        ]), 'split8_train_score': array([0.96978022, 0.63736264, 1.        ]), 'split9_train_score': array([0.96153846, 0.64010989, 1.        ]), 'mean_train_score': array([0.96730769, 0.63708791, 1.        ]), 'std_train_score': array([0.00889788, 0.01413968, 0.        ])}
+
+Training Accuracy: 0.9626373626373627
+
+Cross Validation Accuracy: 0.9559346903096904
+
+Testing Accuracy: 0.9385964912280702
+
+Total Time Taken: 0:00:19.317017

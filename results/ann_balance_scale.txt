@@ -1,0 +1,11 @@
+ANN with Balance Scale Dataset
+
+Optimal Hidden Layers: [16, 16, 16, 16, 16, 16]
+
+Training Accuracy: 0.998
+
+Cross Validation Accuracy: 0.9580133880036034
+
+Testing Accuracy: 0.96
+
+Total Time Taken: 0:00:09.866071

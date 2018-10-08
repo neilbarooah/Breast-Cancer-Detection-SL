@@ -1,0 +1,11 @@
+Adaboost with Balance Dataset
+
+Optimal Number of Estimators: 551Grid Scores:
+
+[mean: 0.58600, std: 0.04862, params: {'n_estimators': 1}, mean: 0.91000, std: 0.03688, params: {'n_estimators': 51}, mean: 0.91100, std: 0.03506, params: {'n_estimators': 101}, mean: 0.91800, std: 0.03124, params: {'n_estimators': 151}, mean: 0.91600, std: 0.03470, params: {'n_estimators': 201}, mean: 0.92200, std: 0.03280, params: {'n_estimators': 251}, mean: 0.92300, std: 0.03348, params: {'n_estimators': 301}, mean: 0.92800, std: 0.03187, params: {'n_estimators': 351}, mean: 0.92700, std: 0.03407, params: {'n_estimators': 401}, mean: 0.92900, std: 0.03477, params: {'n_estimators': 451}, mean: 0.93000, std: 0.03098, params: {'n_estimators': 501}, mean: 0.93200, std: 0.03736, params: {'n_estimators': 551}, mean: 0.93000, std: 0.03661, params: {'n_estimators': 601}, mean: 0.93200, std: 0.04020, params: {'n_estimators': 651}, mean: 0.92700, std: 0.03900, params: {'n_estimators': 701}, mean: 0.92700, std: 0.04100, params: {'n_estimators': 751}, mean: 0.92900, std: 0.04158, params: {'n_estimators': 801}, mean: 0.93000, std: 0.04099, params: {'n_estimators': 851}, mean: 0.92800, std: 0.04167, params: {'n_estimators': 901}, mean: 0.92700, std: 0.04124, params: {'n_estimators': 951}, mean: 0.92800, std: 0.04190, params: {'n_estimators': 1001}, mean: 0.93000, std: 0.04171, params: {'n_estimators': 1051}, mean: 0.93000, std: 0.04219, params: {'n_estimators': 1101}, mean: 0.92800, std: 0.04118, params: {'n_estimators': 1151}]Training Accuracy: 0.95
+
+Cross Validation Accuracy: 0.914418714942405
+
+Testing Accuracy: 0.928
+
+Total Time Taken: 0:03:55.707744

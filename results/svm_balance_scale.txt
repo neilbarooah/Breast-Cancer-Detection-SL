@@ -1,0 +1,16 @@
+SVM with Balance Scale Dataset
+
+Best Kernel: linear
+
+Grid Scores:
+
+{'mean_fit_time': array([0.0020874 , 0.00717535, 0.00349052]), 'std_fit_time': array([0.00033734, 0.0008505 , 0.00052525]), 'mean_score_time': array([0.00044591, 0.00165541, 0.00066807]), 'std_score_time': array([9.39864092e-05, 1.78700763e-04, 1.17429825e-04]), 'param_kernel': masked_array(data=['linear', 'sigmoid', 'rbf'],
+             mask=[False, False, False],
+       fill_value='?',
+            dtype=object), 'params': [{'kernel': 'linear'}, {'kernel': 'sigmoid'}, {'kernel': 'rbf'}], 'split0_test_score': array([0.91, 0.4 , 0.86]), 'split1_test_score': array([0.92, 0.41, 0.93]), 'split2_test_score': array([0.92, 0.49, 0.93]), 'split3_test_score': array([0.82, 0.4 , 0.82]), 'split4_test_score': array([0.92, 0.49, 0.92]), 'split5_test_score': array([0.89, 0.42, 0.95]), 'split6_test_score': array([0.91, 0.46, 0.89]), 'split7_test_score': array([0.93, 0.39, 0.91]), 'split8_test_score': array([0.93, 0.45, 0.93]), 'split9_test_score': array([0.92, 0.44, 0.89]), 'mean_test_score': array([0.907, 0.435, 0.903]), 'std_test_score': array([0.031     , 0.035     , 0.03716181]), 'rank_test_score': array([1, 3, 2], dtype=int32), 'split0_train_score': array([0.915 , 0.4875, 0.925 ]), 'split1_train_score': array([0.9125, 0.485 , 0.925 ]), 'split2_train_score': array([0.9125, 0.465 , 0.9225]), 'split3_train_score': array([0.8975, 0.4875, 0.95  ]), 'split4_train_score': array([0.9125, 0.465 , 0.9175]), 'split5_train_score': array([0.92  , 0.4825, 0.9225]), 'split6_train_score': array([0.915 , 0.4725, 0.9325]), 'split7_train_score': array([0.91, 0.47, 0.93]), 'split8_train_score': array([0.91 , 0.475, 0.925]), 'split9_train_score': array([0.9125, 0.4775, 0.925 ]), 'mean_train_score': array([0.91175, 0.47675, 0.9275 ]), 'std_train_score': array([0.00548293, 0.00821964, 0.00844097])}Training Accuracy: 0.914
+
+Cross Validation Accuracy: 0.9020727102340069
+
+Testing Accuracy: 0.928
+
+Total Time Taken: 0:00:02.042616
